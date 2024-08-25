@@ -1,4 +1,4 @@
-[![MasterHead]([https://pin.it/1sojPJv4Z](https://images.app.goo.gl/2hB16pzuCaSccdKQ6))
+[![MasterHead](https://images.app.goo.gl/2hB16pzuCaSccdKQ6)
 
 
 <h1 align="center">Hi 👋, I'm Mustafa Emircan IŞIK</h1>
