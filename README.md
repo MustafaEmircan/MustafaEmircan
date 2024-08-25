@@ -30,3 +30,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaemircan&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaemircan" /> </p>
 
+![snake gif](https://github.com/MustafaEmircan/MustafaEmircan/blob/output/github-contribution-grid-snake.gif)
