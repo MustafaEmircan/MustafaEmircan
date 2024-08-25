@@ -1,5 +1,3 @@
-![MasterHead]([https://example.com/path/to/your/image.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.com%2Fdata-science&psig=AOvVaw1y4o1Yc4pJg1ikO-BTRg3S&ust=1724696126905000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjrpPPfkIgDFQAAAAAdAAAAABAE))
-
 <h1 align="center">Hi 👋, I'm Mustafa Emircan IŞIK</h1>
 <h3 align="center">I am currently studying at Istanbul Kültür University with a 100% merit scholarship in Economics, Computer Programming, and Mathematics and Computer Science. I serve as the Chairman of the Board of the Economics Club at my university. Additionally, I work as a Cultural Ambassador at the university's Communication Office. I am currently working as a Data Science Intern at XINERJI SOFTWARE, and I am continuously striving to improve myself in the field of data science. Through my education and internship experiences, I aim to enhance my knowledge and skills both academically and professionally.</h3>
 
