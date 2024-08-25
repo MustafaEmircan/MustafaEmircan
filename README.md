@@ -1,3 +1,5 @@
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHEKeS-h5XjGA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1700998971296?e=1730332800&v=beta&t=GrJ7y2kyBVAiHfMCzM4Ea_UeKqjXkKoBWM43MIP8B3Y)
+
 <h1 align="center">Hi 👋, I'm Mustafa Emircan IŞIK</h1>
 <h3 align="center">I am currently studying at Istanbul Kültür University with a 100% merit scholarship in Economics, Computer Programming, and Mathematics and Computer Science. I serve as the Chairman of the Board of the Economics Club at my university. Additionally, I work as a Cultural Ambassador at the university's Communication Office. I am currently working as a Data Science Intern at XINERJI SOFTWARE, and I am continuously striving to improve myself in the field of data science. Through my education and internship experiences, I aim to enhance my knowledge and skills both academically and professionally.</h3>
 
@@ -29,9 +31,3 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaemircan&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaemircan" /> </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MustafaEmircan/MustafaEmircan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MustafaEmircan/MustafaEmircan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MustafaEmircan/MustafaEmircan/output/github-contribution-grid-snake.svg">
-</picture>
