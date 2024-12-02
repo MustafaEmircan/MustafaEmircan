@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mustafa Emircan IŞIK</h1>
-<h3 align="center">I am currently studying at Istanbul Kültür University with a 100% merit scholarship in Economics, Computer Programming, and Mathematics and Computer Science. I serve as the Chairman of the Board of the Economics Club at my university. Additionally, I work as a Cultural Ambassador at the university's Communication Office. I am currently working as a Data Science Intern at XINERJI SOFTWARE, and I am continuously striving to improve myself in the field of data science. Through my education and internship experiences, I aim to enhance my knowledge and skills both academically and professionally.</h3>
+<h3 align="center">I completed a Bachelor's degree in Economics, an Associate Degree in Computer Programming, and a Minor in Mathematics and Computer Science at Istanbul Kültür University with a 100% merit scholarship. During my studies, I served as the Chairman of the Board of the Economics Club, leading and organizing events, workshops, and seminars for over 1,000 members. I also worked as a Cultural Ambassador at the university's Communication Office, where I organized and promoted cultural activities. Additionally, I gained hands-on experience as a Data Science Intern at XINERJI SOFTWARE, working on impactful projects in the international logistics sector. With a strong focus on data science, I continue to enhance my skills in areas such as machine learning, feature engineering, deep learning, time series analysis, and natural language processing (NLP), aiming to build robust solutions and contribute to the data science community.</h3>
 
 
 
