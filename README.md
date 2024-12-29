@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **anything related to Python/SQL or ML//Feature Engineering**
+- 💬 Ask me about **anything related to Python/SQL or Machine Learning//Feature Engineering**
 
 - 📫 How to reach me **mustafaemircan@icloud.com**
 
